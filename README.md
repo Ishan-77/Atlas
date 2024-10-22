@@ -1,4 +1,4 @@
-                                                                    # Atlas
+ ## Atlas
 
 # Home Page
 
